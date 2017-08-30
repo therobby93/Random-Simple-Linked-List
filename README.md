@@ -1,6 +1,6 @@
 # Random-Simple-Linked-List
 Simple linked list
-//Notes for me 
+#Notes for me 
 A linked list is a series of connected nodes, where each node is a data structure. The nodes of
 a linked list are usually dynamically allocated, used, and then deleted, allowing the linked list
 to grow or shrink in size as the program runs. If new information needs to be added to a
