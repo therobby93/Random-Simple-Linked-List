@@ -3,8 +3,8 @@
 
 #include <iostream>
 //#include<conio.h>
-#include<stdlib.h>
-#include<stdio.h>
+//#include<stdlib.h>
+//#include<stdio.h>
 
 using namespace std;
 
@@ -57,7 +57,7 @@ int main() {
         temp_node = temp_node -> next;
     }
     
-    cout << "\nNo Of Items In Linked List : %d" << count;
+    cout << "\nNo Of Items In Linked List : " << count << endl;
     
     return 0;
 }
